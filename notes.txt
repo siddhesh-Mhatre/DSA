@@ -1,0 +1,3 @@
+Circular list ->
+
+https://python.plainenglish.io/circular-linked-lists-theory-and-python-implementation-a8161f93e80f
