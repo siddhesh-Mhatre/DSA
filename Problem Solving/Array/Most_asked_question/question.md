@@ -1,5 +1,5 @@
 #Easy
-Wave Array				
+Wave Array	- Not done			
 Subarray with given sum				
 Missing number in array				
 Rotate Array				
