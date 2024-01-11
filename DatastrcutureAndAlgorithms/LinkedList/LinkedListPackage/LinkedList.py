@@ -75,15 +75,31 @@ class LinkedList:
                 temp = temp.next
             del temp.next
             temp.next = None
+    
+    def get_middle(self):
+        slow=self.head
+        fast=self.head
+        while fast and fast.next:
+            fast=fast.next.next
+            slow = slow.next
+        return slow.data
 
-    def diplay(self):
+ 
+
+    def display(self):
         temp = self.head
         while temp:
             print(temp.data)
             temp = temp.next
 
 
- 
- 
+root = LinkedList()
+root.insert_at_begining(1)
+root.insert_at_begining(2)
+root.insert_at_begining(3)
+root.insert_at_begining(4)
+root.insert_at_begining(5)
+# root.display()
+print(root.get_middle())
 
  
