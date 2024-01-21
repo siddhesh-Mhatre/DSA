@@ -1,10 +1,10 @@
 #Easy
 Wave Array	- Not done			
-Subarray with given sum				
-Missing number in array				
-Rotate Array				
-Find duplicates in an array				
-Move all zeroes to end of array				
+Subarray with given sum	-> Done			
+Missing number in array	-> Done			
+Rotate Array		-> done		
+Find duplicates in an array -> done				
+Move all zeroes to end of array	-> 	 Done (should optimise)		
 Sort an array of 0s, 1s and 2s	Solve , Solve	Code	Video	
 Intersection of two arrays				
 Reverse an array				
