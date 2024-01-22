@@ -5,7 +5,7 @@ Missing number in array	-> Done
 Rotate Array		-> done		
 Find duplicates in an array -> done				
 Move all zeroes to end of array	-> 	 Done (should optimise)		
-Sort an array of 0s, 1s and 2s	Solve , Solve	Code	Video	
+Sort an array of 0s, 1s and 2s	Solve , Solve	-> done	
 Intersection of two arrays				
 Reverse an array				
 Swapping Elements in an array				
@@ -21,7 +21,7 @@ Coin Change
 Stock span problem				
 Merge k Sorted Arrays				
 Next Permutation				
-Kadane's Algorithm
+Kadane's Algorithm -> done
 
 # Hard
 Array Questions	Practice Link	Code Solutions	Video Solutions	HINT
