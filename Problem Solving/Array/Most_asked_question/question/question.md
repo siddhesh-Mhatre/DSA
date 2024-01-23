@@ -6,7 +6,8 @@ Rotate Array		-> done
 Find duplicates in an array -> done				
 Move all zeroes to end of array	-> 	 Done (should optimise)		
 Sort an array of 0s, 1s and 2s	Solve , Solve	-> done	
-Intersection of two arrays				
+Intersection of two arrays	
+Unione of two sorted Arrays			
 Reverse an array				
 Swapping Elements in an array				
 Find Min and Max in an Array
