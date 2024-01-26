@@ -1,13 +1,13 @@
 #Easy
-Wave Array	- Not done			
-Subarray with given sum	-> Done			
-Missing number in array	-> Done			
-Rotate Array		-> done		
-Find duplicates in an array -> done				
-Move all zeroes to end of array	-> 	 Done (should optimise)		
-Sort an array of 0s, 1s and 2s	Solve , Solve	-> done	
-Intersection of two arrays	
-Unione of two sorted Arrays			
+Wave Array	- Not done		❌	
+Subarray with given sum	-> Done		✅	
+Missing number in array	-> Done		✅	
+Rotate Array		-> done		✅
+Find duplicates in an array -> done	✅			
+Move all zeroes to end of array	-> 	 Done (should optimise ❌)		
+Sort an array of 0s, 1s and 2s	Solve , Solve	-> done	✅
+Intersection of two arrays	-> done ✅
+Unione of two sorted Arrays	-> done ✅
 Reverse an array				
 Swapping Elements in an array				
 Find Min and Max in an Array
