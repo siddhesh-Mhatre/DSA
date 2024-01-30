@@ -8,9 +8,9 @@ Move all zeroes to end of array	-> 	 Done (should optimise ❌)
 Sort an array of 0s, 1s and 2s	Solve , Solve	-> done	✅
 Intersection of two arrays	-> done ✅
 Unione of two sorted Arrays	-> done ✅
-Reverse an array				
-Swapping Elements in an array				
-Find Min and Max in an Array
+Reverse an array ->	Done ✅
+Swapping Elements in an array	-> Done  ✅	
+Find Min and Max in an Array  -> Done  ✅
 
 
 # Medium 
