@@ -1,0 +1,19 @@
+x Q1. What is a Stack?
+- Answer: A stack is a linear data structure that follows the Last In, First Out (LIFO) principle, where the last element added is the first one to be removed.
+
+x Q2. How is a Stack Implemented?
+- Answer: A stack can be implemented using an array or a linked list. In the array-based implementation, a pointer (top) keeps track of the top element. In the linked list implementation, each node contains the data and a pointer to the next node.
+
+x Q3.Explain the Operations in a Stack.
+- Answer: The main operations on a stack are:
+- Push: Adds an element to the top of the stack.
+- Pop: Removes the element from the top of the stack.
+- Peek (or Top): Returns the element at the top without removing it.
+- isEmpty: Checks if the stack is empty.
+- isFull (for a fixed-size array-based stack): Checks if the stack is full.
+
+x Q4.Explain the Application of a Stack in Evaluating Expressions.
+- Answer: Stacks are commonly used to evaluate expressions, especially in converting infix expressions to postfix or prefix. The stack is used to keep operators and operands in the correct order during the evaluation process.
+
+x Q5.Describe the Undo Mechanism Using a Stack.
+- Answer: The undo mechanism often utilizes a stack to keep track of the sequence of actions performed. Each action is pushed onto the stack, and the undo operation involves popping the last action and reverting the state accordingly.
