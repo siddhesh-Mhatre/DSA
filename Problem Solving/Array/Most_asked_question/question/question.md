@@ -14,7 +14,7 @@ Find Min and Max in an Array  -> Done  ✅
 
 
 # Medium 
-Valid Moutain Array	Solve	Code	Video	2 pointers
+Valid Moutain Array	Solve ->Done ✅	Code	Video	2 pointers
 Majority Element	Solve	Code	Video	Sorting / or Boyer-Moore Voting Algorithm
 Kth largest/smallest element in an array	Solve	Code	Video	soritng / priority q
 Trapping Rain Water				
